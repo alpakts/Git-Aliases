@@ -1,7 +1,7 @@
 # Git-Aliases
 Cheatsheet for git aliases
 
-[EN](#en) | [TR](#tr)
+Languages [EN](#en) | [TR](#tr)
 ## EN
 
 ### Overview
